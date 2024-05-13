@@ -1,4 +1,21 @@
-# bom dia
-<h1>Mercado Pomar</h1>  
-<p>Tradição em preço baixo e hortifrúti de qualidade.</p>
-<p>Localizado no coração de Vila Velha.</p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - Barbearia Alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="logo.png"></h1>
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </header>
+    </body>
+</html>
